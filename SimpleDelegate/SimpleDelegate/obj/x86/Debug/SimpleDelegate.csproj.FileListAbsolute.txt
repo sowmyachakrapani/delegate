@@ -1,0 +1,6 @@
+c:\users\chakrapani\documents\visual studio 2010\Projects\SimpleDelegate\SimpleDelegate\bin\Debug\SimpleDelegate.exe
+c:\users\chakrapani\documents\visual studio 2010\Projects\SimpleDelegate\SimpleDelegate\bin\Debug\SimpleDelegate.pdb
+c:\users\chakrapani\documents\visual studio 2010\Projects\SimpleDelegate\SimpleDelegate\obj\x86\Debug\SimpleDelegate.exe
+c:\users\chakrapani\documents\visual studio 2010\Projects\SimpleDelegate\SimpleDelegate\obj\x86\Debug\SimpleDelegate.pdb
+C:\Users\chakrapani\Documents\c#_training\delegate\SimpleDelegate\SimpleDelegate\obj\x86\Debug\SimpleDelegate.exe
+C:\Users\chakrapani\Documents\c#_training\delegate\SimpleDelegate\SimpleDelegate\obj\x86\Debug\SimpleDelegate.pdb

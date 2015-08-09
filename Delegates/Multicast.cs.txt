@@ -1,0 +1,52 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+namespace ConsoleApplication47
+{
+    class MailBox
+    {
+        public static void save()
+        {
+            Console.WriteLine("Phonebook entries are mailed");
+        }
+    }
+
+    class DropBox
+    {
+        public static void export()
+        {
+            Console.WriteLine("Contact list is compressed and saved in dropbox");
+        }
+    }
+
+    class Compression
+    {
+        public static void FileCompression()
+        {
+            Console.WriteLine("Export phone contacts as xml");
+        }
+    }
+
+    class FileManager
+    {
+        public static void Clean()
+        {
+            Console.WriteLine("Phone entries are deleted");
+        }
+    }
+
+    delegate void Export( );
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Export e;
+            e = new Export(MailBox.save);
+            e += new Export(Compression.FileCompression);
+            e += new Export(DropBox.export);
+            e += new Export(FileManager.Clean);
+            e.Invoke();
+        }
+    }
+}

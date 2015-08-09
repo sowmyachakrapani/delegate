@@ -1,0 +1,7 @@
+c:\users\chakrapani\documents\visual studio 2010\Projects\DelegateInvocationList\DelegateInvocationList\bin\Debug\DelegateInvocationList.exe
+c:\users\chakrapani\documents\visual studio 2010\Projects\DelegateInvocationList\DelegateInvocationList\bin\Debug\DelegateInvocationList.pdb
+c:\users\chakrapani\documents\visual studio 2010\Projects\DelegateInvocationList\DelegateInvocationList\obj\x86\Debug\DelegateInvocationList.exe
+c:\users\chakrapani\documents\visual studio 2010\Projects\DelegateInvocationList\DelegateInvocationList\obj\x86\Debug\DelegateInvocationList.pdb
+C:\Users\chakrapani\Documents\Visual Studio 2010\Projects\DelegateInvocationList\DelegateInvocationList\obj\x86\Debug\DelegateInvocationList.csprojResolveAssemblyReference.cache
+C:\Users\chakrapani\Documents\c#_training\Entity and Delegates\Delegates\DelegateInvocationList\DelegateInvocationList\obj\x86\Debug\DelegateInvocationList.exe
+C:\Users\chakrapani\Documents\c#_training\Entity and Delegates\Delegates\DelegateInvocationList\DelegateInvocationList\obj\x86\Debug\DelegateInvocationList.pdb

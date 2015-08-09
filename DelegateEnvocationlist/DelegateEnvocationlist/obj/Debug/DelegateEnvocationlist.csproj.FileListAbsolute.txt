@@ -1,0 +1,4 @@
+c:\users\chakrapani\documents\visual studio 2010\Projects\DelegateEnvocationlist\DelegateEnvocationlist\bin\DelegateEnvocationlist.dll
+c:\users\chakrapani\documents\visual studio 2010\Projects\DelegateEnvocationlist\DelegateEnvocationlist\bin\DelegateEnvocationlist.pdb
+c:\users\chakrapani\documents\visual studio 2010\Projects\DelegateEnvocationlist\DelegateEnvocationlist\obj\Debug\DelegateEnvocationlist.dll
+c:\users\chakrapani\documents\visual studio 2010\Projects\DelegateEnvocationlist\DelegateEnvocationlist\obj\Debug\DelegateEnvocationlist.pdb

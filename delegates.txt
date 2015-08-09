@@ -1,0 +1,14 @@
+Delegate points to a function. Its a type safe function pointer.Signtaure of the delegate should match the signature of the function it points to else we get a compiler error.Hence they are called type safe function pointers.
+A delegate is similar to a class we can create an instance of a delegate and when we do so we pass in the function name as a parameter to the delegate constructor and it is this function the delegate ?will point to.
+Delegate syntax is similar to a method with delegate keyword.
+
+delegate is declared to call a particular type of function.
+Multicast delegate means all the function addresses are stored in the function pointer(delegate) in the order in which they were selected. Then finally when we hit invoke all these functions will be invoked one after the other in the order in which they were stored in the function pointer.
+For example in a satellite launch all the functions are listed and kept ready when we hit the launch button all of these get executed in the order in which they were set.
+
+delegatename instancename = new delegatename(methodname1)
+instancename += methodname2
+instancename += methodname3
+
+instancename();
+Here instancename is  a multicast delegate which will call methodname1 then 2 and then 3.
